@@ -1,6 +1,6 @@
-## 👋 Hi, I'm a Blockchain Developer
+## 👋 Hi, I'm a Muhammad Haroon
 
-I’m a blockchain developer focused on building decentralized applications, smart contracts, and scalable Web3 systems.
+A developer focused on building decentralized applications, smart contracts, and scalable Web3 systems.
 
 🔹 Smart Contracts: Solidity, Rust  
 🔹 Blockchains: Ethereum, Solana  
@@ -30,11 +30,11 @@ I enjoy turning complex ideas into secure, production-ready blockchain solutions
 
 ## ⚡ About Me
 
-Blockchain developer with hands-on experience in **Ethereum & Solana ecosystems**.  
+Blockchain developer/ Backend Developer with hands-on experience in **Ethereum & Solana ecosystems & Node.js**.  
 I build smart contracts, DeFi protocols, NFT systems, and on-chain automation.
 
 🧠 Strong in:
-- Solidity & Rust
+- Solidity, Rust & Node
 - Smart contract architecture
 - Token standards (ERC-20, ERC-721, ERC-1155)
 - Web3 integrations & on-chain logic
