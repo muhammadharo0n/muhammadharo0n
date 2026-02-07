@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://iconscout.com/lottie-animations/solana"  />
+  <img src="https://pngtree.com/freepng/solana-sol-cryptocurrency-symbol-depicted-on-a-plain-white-backdrop-vector_10957910.html"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
   <img width="12" />
